@@ -1,3 +1,9 @@
+# GBFRD
+Xinyu Su, Xiwen Wang, Dezhong Peng, Hongmei Chen, Yingke Chen, and **Zhong Yuan**
+
+Granular-Ball Computing Guided Anomaly Detection for Hybrid Attribute Data
+<!-- Xinyu Su, Xiwen Wang, Dezhong Peng, Hongmei Chen, Yingke Chen, and **Zhong Yuan** [Granular-Ball Computing Guided Anomaly Detection for Hybrid Attribute Data](Paper/2024-GBFRD.pdf), Information Sciences, September 2024, 678: 121016. DOI: [10.1016/j.ins.2024.121016](https://doi.org/10.1016/j.ins.2024.121016). (Code) -->
+
 ## Framework
 ![image](./Paper/HGBAD_Framework.png)
 
