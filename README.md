@@ -3,6 +3,9 @@ Xinyu Su, Xiwen Wang, Dezhong Peng, Hongmei Chen, Yingke Chen, and **Zhong Yuan*
 
 Granular-Ball Computing Guided Anomaly Detection for Hybrid Attribute Data
 
+## Abstract
+Anomaly detection is one of the important research areas in data mining or data analytics. However, most of the existing anomaly detection methods struggle with homogeneous data that includes both nominal and numerical attribute data. Moreover, these methods also suffer from inefficiency and noise sensitivity due to their single-granularity sample-based input paradigm. In this study, we propose an unsupervised anomaly detection method based on the granular-ball fuzzy set called HGBAD. First, we define a novel granular-ball fuzzy set to deal with the uncertainty information in hybrid attribute data. Based on the novel fuzzy set, multiple granular-ball fuzzy information granules are constructed. The anomaly degrees of granular-ball fuzzy information granules are fused to calculate the anomaly factors. The anomaly factors are used to measure the anomaly degrees of samples. Based on the anomaly factors, anomalies can be detected by an anomaly determination threshold. Experimental results demonstrate the superior performance of HGBAD in detecting anomalies across various data types. The code is publicly available at \href{https://github.com/Mxeron/HGBAD}
+
 ## Framework
 ![image](./Paper/HGBAD_Framework.png)
 
