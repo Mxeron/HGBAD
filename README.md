@@ -26,7 +26,7 @@ If you find DFNO useful in your research, please consider citing:
 ```
 @article{su2024granular,
   title={Granular‑ball computing guided anomaly detection for hybrid attribute data},
-  author={Su, Xin Yu and Wang, Xiwen and Peng, Deng Zhong and Chen, Hong Mei and Chen, Ying Ke and Yuan, Zhong},
+  author={Su, Xin Yu and Wang, Xi Wen and Peng, Deng Zhong and Chen, Hong Mei and Chen, Ying Ke and Yuan, Zhong},
   journal={International Journal of Machine Learning and Cybernetics},
   volume={},
   number={},
