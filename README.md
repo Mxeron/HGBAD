@@ -1,5 +1,5 @@
 # HGBAD
-Xinyu Su, Xiwen Wang, Dezhong Peng, Hongmei Chen, Yingke Chen, and **Zhong Yuan***
+Xinyu Su, Xiwen Wang, Dezhong Peng, Hongmei Chen, Yingke Chen, and **Zhong Yuan***,[Granular‑ball computing guided anomaly detection for hybrid attribute data](Paper/2024-HGBAD.pdf), International Journal of Machine Learning and Cybernetics, 2024, DOI: [10.1007/s13042-024-02425-8](https://doi.org/10.1007/s13042-024-02425-8).
 
 Granular-Ball Computing Guided Anomaly Detection for Hybrid Attribute Data
 
@@ -23,3 +23,20 @@ out_factors = [0.37513644 0.40236464 0.34346751 0.39648027 0.36365423 0.34144782
  0.35991082 0.33280241 0.3308039  0.35823686 0.34502298 0.36494364
  0.36962932 0.35060029]
 ```
+## Citation
+If you find DFNO useful in your research, please consider citing:
+```
+@article{yuan2024detecting,
+  title={Granular‑ball computing guided anomaly detection for hybrid attribute data},
+  author={Su, Xin Yu and Wang, Xiwen and Peng, Deng Zhong and Chen, Hong Mei and Chen, Ying Ke and Yuan, Zhong},
+  journal={International Journal of Machine Learning and Cybernetics},
+  volume={},
+  number={},
+  pages={},
+  year={2024},
+  doi={10.1007/s13042-024-02425-8},
+  publisher={Springer}
+}
+```
+## Contact
+If you have any questions, please contact yuanzhong@scu.edu.cn.
