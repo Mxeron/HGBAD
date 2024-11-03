@@ -24,7 +24,7 @@ out_factors = [0.37513644 0.40236464 0.34346751 0.39648027 0.36365423 0.34144782
 ## Citation
 If you find DFNO useful in your research, please consider citing:
 ```
-@article{yuan2024detecting,
+@article{su2024granular,
   title={Granular‑ball computing guided anomaly detection for hybrid attribute data},
   author={Su, Xin Yu and Wang, Xiwen and Peng, Deng Zhong and Chen, Hong Mei and Chen, Ying Ke and Yuan, Zhong},
   journal={International Journal of Machine Learning and Cybernetics},
