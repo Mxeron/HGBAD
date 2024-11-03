@@ -37,4 +37,4 @@ If you find DFNO useful in your research, please consider citing:
 }
 ```
 ## Contact
-If you have any questions, please contact yuanzhong@scu.edu.cn.
+If you have any questions, please contact suxinyu@stu.scu.edu.cn or yuanzhong@scu.edu.cn.
