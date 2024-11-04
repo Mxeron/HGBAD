@@ -22,7 +22,7 @@ out_factors = [0.37513644 0.40236464 0.34346751 0.39648027 0.36365423 0.34144782
  0.36962932 0.35060029]
 ```
 ## Citation
-If you find DFNO useful in your research, please consider citing:
+If you find HGBAD useful in your research, please consider citing:
 ```
 @article{su2024granular,
   title={Granular‑ball computing guided anomaly detection for hybrid attribute data},
