@@ -184,5 +184,6 @@ def HGBAD(data, sigma=1):
 
 if __name__ == '__main__':
     data = pd.read_csv("./Example.csv").values
-    out_factors = HGBAD(data, 0.6)
+    sigma = 0.6
+    out_factors = HGBAD(data, sigma)
     print(out_factors)
